@@ -11,8 +11,8 @@ why index is start from zero ?
 
 print() function :
      
-    -> In python,print() is built-in function,meaning it can be used without importing any modules
-    -> It outputs the specified text or variable value that is written in inside the parenthesis
+   -> In python,print() is built-in function,meaning it can be used without importing any modules
+   -> It outputs the specified text or variable value that is written in inside the parenthesis
    ex:- 1) a=12
            print(a)
         2)print("goutham")
