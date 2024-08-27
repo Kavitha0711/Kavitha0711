@@ -4,7 +4,7 @@ why index is start from zero ?
       * Index is always start from zero.
              Reason:
                  *indexis start from 0 because it
-                   allows forefficient memory management.
+                 allows forefficient memory management.
                  * index is used as an offset.
 
 
