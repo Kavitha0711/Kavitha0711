@@ -3,11 +3,15 @@ why index is start from zero ?
       * In python we have indexing.
       * Index is always start from zero.
              Reason:
-                 *indexis start from 0 because it
+                 *index is start from 0 because it
                  allows forefficient memory management.
                  * index is used as an offset.
 
-
+     ex:- x=[]1,2,3,4,5]
+          print(x[0])
+          print(x[1])
+          print(x[2])
+          print(x[3])
 
 print() function :
      
@@ -23,4 +27,6 @@ return()
   ->It is used to returnthe statement,variable,value etc
   ->It terminates the execution of function 
        and returns a value 
-        
+    ex:-def greet():
+            return "hello"
+        print(greet())
