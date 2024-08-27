@@ -3,21 +3,19 @@ why index is start from zero ?
       * In python we have indexing.
       * Index is always start from zero.
              Reason:
-                   *indexis start from 0 because it allows for 
-                       efficient memory management.
-                     * index is used as an offset.
+                 *indexis start from 0 because it
+                   allows forefficient memory management.
+                 * index is used as an offset.
 
 
 
 print() function :
      
-    -> In python,print() is built-in function,meaning it can be 
-        used without importing any modules
-    -> It outputs the specified text or variable value that is 
-        written in inside the parenthesis
+    -> In python,print() is built-in function,meaning it can be used without importing any modules
+    -> It outputs the specified text or variable value that is written in inside the parenthesis
    ex:- 1) a=12
            print(a)
-
+        2)print("goutham")
 
 return() 
    
@@ -25,4 +23,4 @@ return()
   ->It is used to returnthe statement,variable,value etc
   ->It terminates the execution of function 
        and returns a value 
-        2)print("goutham")
+        
