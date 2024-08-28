@@ -30,3 +30,15 @@ return()
     ex:-def greet():
             return "hello"
         print(greet())
+Arguments:
+
+ In Python, arguments are the values passed to a       function when it is called. They are assigned to the parameters defined in the function definition.
+
+_Types of Arguments:_
+
+1. _Positional Arguments_: These are the values passed to the function in the correct order.
+2. _Keyword Arguments_: These are the values passed to the function using the keyword syntax (e.g., `func(x=5)`).
+3. _Variable Arguments_: These are the values passed to the function as a variable number of arguments (e.g., `*args`).
+4. _Keyword-Only Arguments_: These are the values passed to the function using the keyword syntax, and can only be used with keyword-only parameters (e.g., `func(x, *, y=5)`).
+
+
