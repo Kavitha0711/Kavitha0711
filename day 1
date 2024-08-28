@@ -30,15 +30,30 @@ return()
     ex:-def greet():
             return "hello"
         print(greet())
+
+parameters:
+
+In Python, parameters are the variables that are defined inside the parentheses of a function definition. They are used to pass data to the function when it is called. 
+
+  Types of Parameters:
+
+1. Positional Parameters: These are the parameters that are passed to the function in the correct order.
+2. Keyword Parameters: These are the parameters that are passed to the function using the keyword syntax (e.g., `func(x=5)`).
+3. Default Parameters: These are the parameters that have a default value assigned to them in the function definition.
+4. Variable Parameters: These are the parameters that can take any number of arguments (e.g., `*args`).
+5. Keyword-Only Parameters: These are the parameters that can only be passed using the keyword syntax (e.g., `func(x, *, y=5)`).
+
+
+
 Arguments:
 
  In Python, arguments are the values passed to a       function when it is called. They are assigned to the parameters defined in the function definition.
 
-_Types of Arguments:_
+Types of Arguments:
 
-1. _Positional Arguments_: These are the values passed to the function in the correct order.
-2. _Keyword Arguments_: These are the values passed to the function using the keyword syntax (e.g., `func(x=5)`).
-3. _Variable Arguments_: These are the values passed to the function as a variable number of arguments (e.g., `*args`).
-4. _Keyword-Only Arguments_: These are the values passed to the function using the keyword syntax, and can only be used with keyword-only parameters (e.g., `func(x, *, y=5)`).
+1. Positional Arguments: These are the values passed to the function in the correct order.
+2. Keyword Arguments: These are the values passed to the function using the keyword syntax (e.g., `func(x=5)`).
+3. Variable Arguments: These are the values passed to the function as a variable number of arguments (e.g., `*args`).
+4. Keyword-Only Arguments: These are the values passed to the function using the keyword syntax, and can only be used with keyword-only parameters (e.g., `func(x, *, y=5)`).
 
 
