@@ -24,7 +24,7 @@ print() function :
 return() 
    
   ->In python return is a FUNCTION.
-  ->It is used to returnthe statement,variable,value etc
+  ->It is used to returnthe statement,variable,valueetc
   ->It terminates the execution of function 
        and returns a value 
     ex:-def greet():
@@ -53,7 +53,7 @@ Types of Arguments:
 
 1. Positional Arguments: These are the values passed to the function in the correct order.
 2. Keyword Arguments: These are the values passed to the function using the keyword syntax (e.g., `func(x=5)`).
-3. Variable Arguments: These are the values passed to the function as a variable number of arguments (e.g., `*args`).
+3. Variable Arguments: These are the values passed to the        function as a variable number of arguments (e.g., `*args`).
 4. Keyword-Only Arguments: These are the values passed to the function using the keyword syntax, and can only be used with keyword-only parameters (e.g., `func(x, *, y=5)`).
 
 
