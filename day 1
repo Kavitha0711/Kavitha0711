@@ -47,7 +47,7 @@ In Python, parameters are the variables that are defined inside the parentheses 
 
 Arguments:
 
-In Python,arguments are the values passed to a       function when it is called. They are assigned to the parameters defined in the function definition.
+In Python,arguments are the values passed to a function when it is called. They are assigned to the parameters defined in the function definition.
 
 Types of Arguments:
 
