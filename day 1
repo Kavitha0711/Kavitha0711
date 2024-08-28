@@ -33,7 +33,7 @@ return()
 
 parameters:
 
-In Python, parameters are the variables that are defined inside the parentheses of a function definition. They are used to pass data to the function when it is called. 
+In Python, parameters are the variables that are defined inside the parentheses of a function definition.They are used to pass data to the function when it is called. 
 
   Types of Parameters:
 
@@ -47,7 +47,7 @@ In Python, parameters are the variables that are defined inside the parentheses 
 
 Arguments:
 
- In Python, arguments are the values passed to a       function when it is called. They are assigned to the parameters defined in the function definition.
+In Python, arguments are the values passed to a       function when it is called. They are assigned to the parameters defined in the function definition.
 
 Types of Arguments:
 
